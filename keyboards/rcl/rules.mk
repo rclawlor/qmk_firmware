@@ -1,1 +1,1 @@
-# This file intentionally left blank
+MCU = STM32F303
